@@ -1,0 +1,9 @@
+{
+    "name": "Starting - Creating a Server",
+    "content": [
+        "https://nodejs.org/docs/latest-v13.x/api/documentation.html",
+        "https://nodejs.org/docs/latest-v13.x/api/synopsis.html",
+        "https://www.luiztools.com.br/post/http-para-programadores-node-js/"
+    ],
+    "Comment": "Utilizando a documentação do node.js, junto com um artigo na internet, criei um servidor, utilizando node.js, e entendi como funciona o protocolo HTTP, junto com o módulo dele disponível para JS com node.js."
+}
