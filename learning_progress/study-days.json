@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "date": "28/12/2021",
+        "name": "Starting - Creating a Server",
+        "content": [
+            "Node.js Server Creating"
+        ],
+        "Description": "Utilizando a documentação do node.js, junto com um artigo na internet, criei um servidor, utilizando node.js, e entendi como funciona o protocolo HTTP, junto com o módulo dele disponível para JS com node.js.",
+        "source": [
+            "https://nodejs.org/docs/latest-v13.x/api/documentation.html",
+            "https://nodejs.org/docs/latest-v13.x/api/synopsis.html",
+            "https://www.luiztools.com.br/post/http-para-programadores-node-js/"
+        ]
+    },
+    {
+        "id": "2",
+        "date": "06/01/2022",
+        "name": "Keep Going - Starting the development of a Vanilla Node.js REST API",
+        "content": [
+            "package.json> npm init -y",
+            "node_modules> npm i -D nodemon",
+            "Documentation of the method http.createServer",
+            "Documentation of the class IncomingMessage (parameter: req)",
+            "Documentation of the class ServerResponse (parameter: res)",
+            "Documentation and usage of the method response.writeHead()",
+            "Usage of res.write() and res.end"
+        ],
+        "Description": "Com base em um vídeo e acompanhando com a documentação do node.js, iniciei o desenvolvimento de uma API REST. Fui até 13:40 (13 minutos e 40 segundos) do vídeo, onde mostra como desenvolver e testar a criação de um servidor node e o básico de como funciona o sistema de rotas, com as requisições e respostas com o servidor.",
+        "source": [
+            "https://nodejs.org/docs/latest-v13.x/api/http.html#http_http_createserver_options_requestlistener",
+            "https://nodejs.org/docs/latest-v13.x/api/http.html#http_class_http_incomingmessage",
+            "https://nodejs.org/docs/latest-v13.x/api/http.html#http_class_http_serverresponse",
+            "https://nodejs.org/docs/latest-v13.x/api/http.html#http_response_writehead_statuscode_statusmessage_headers",
+            "https://www.youtube.com/watch?v=_1xa8Bsho6A"
+        ]
+    }
+]
